@@ -77,9 +77,9 @@
         "Other": 0
     },
     "9C4A0132-07352d1dd0_02_crop_B07Q2MHJCG_bundle0001.exr": {
-        "note": "",
+        "note": "A bit too big",
         "Misplaced": 0,
-        "Too big": 0,
+        "Too big": 1,
         "Too small": 0,
         "Weird shadow": 0,
         "Too bright": 0,
@@ -145,7 +145,7 @@
     "9C4A0132-07352d1dd0_07_crop_B085GXHL6X_bundle0001.exr": {
         "note": "",
         "Misplaced": 0,
-        "Too big": 0,
+        "Too big": 1,
         "Too small": 0,
         "Weird shadow": 0,
         "Too bright": 0,
@@ -177,7 +177,7 @@
     },
     "9C4A0132-07352d1dd0_09_crop_B07DBF3WMC_bundle0001.exr": {
         "note": "",
-        "Misplaced": 0,
+        "Misplaced": 1,
         "Too big": 0,
         "Too small": 0,
         "Weird shadow": 0,
@@ -187,14 +187,14 @@
         "Other": 0
     },
     "9C4A0132-07352d1dd0_09_crop_B0856G6QWP_bundle0001.exr": {
-        "note": "",
-        "Misplaced": 0,
-        "Too big": 0,
+        "note": "This placement map is off, the stairs aren't taken into account",
+        "Misplaced": 1,
+        "Too big": 1,
         "Too small": 0,
         "Weird shadow": 0,
         "Too bright": 0,
         "Noisy envamp": 0,
-        "Looks off": 0,
+        "Looks off": 1,
         "Other": 0
     },
     "9C4A0286-fb330a56ab_04_crop_B07HJFY5K8_bundle0001.exr": {
@@ -244,12 +244,12 @@
     "9C4A0370-2d21311d85_03_crop_B0727Q5F94_bundle0001.exr": {
         "note": "",
         "Misplaced": 0,
-        "Too big": 0,
+        "Too big": 1,
         "Too small": 0,
         "Weird shadow": 0,
         "Too bright": 0,
         "Noisy envamp": 0,
-        "Looks off": 0,
+        "Looks off": 1,
         "Other": 0
     },
     "9C4A0370-2d21311d85_03_crop_B07YPV6SNV_bundle0001.exr": {
@@ -330,26 +330,26 @@
         "Other": 0
     },
     "9C4A0632-aba46c619b_07_crop_B07HZ1LXVC_bundle0001.exr": {
-        "note": "",
-        "Misplaced": 0,
+        "note": "The support map is wrong, the bedsheet isn't a flat surface and should be removed",
+        "Misplaced": 1,
         "Too big": 0,
         "Too small": 0,
         "Weird shadow": 0,
         "Too bright": 0,
         "Noisy envamp": 0,
         "Looks off": 0,
-        "Other": 0
+        "Other": 1
     },
     "9C4A0632-aba46c619b_07_crop_B07MNYTYQL_bundle0001.exr": {
-        "note": "",
-        "Misplaced": 0,
+        "note": "The support map is wrong, the bedsheet isn't a flat surface and should be removed",
+        "Misplaced": 1,
         "Too big": 0,
         "Too small": 0,
         "Weird shadow": 0,
         "Too bright": 0,
         "Noisy envamp": 0,
         "Looks off": 0,
-        "Other": 0
+        "Other": 1
     },
     "9C4A0694-b2fadef894_00_crop_B00WRDS0AU_bundle0001.exr": {
         "note": "",
@@ -396,21 +396,21 @@
         "Other": 0
     },
     "9C4A1774-12d053d172_01_crop_B075X1KVHZ_bundle0001.exr": {
-        "note": "",
-        "Misplaced": 0,
-        "Too big": 0,
+        "note": "The lamp is place on a table, it's weird",
+        "Misplaced": 1,
+        "Too big": 1,
         "Too small": 0,
         "Weird shadow": 0,
         "Too bright": 0,
         "Noisy envamp": 0,
-        "Looks off": 0,
+        "Looks off": 1,
         "Other": 0
     },
     "9C4A1774-12d053d172_01_crop_B07BWJC1GS_bundle0001.exr": {
-        "note": "",
+        "note": "That's a very small couch on a table",
         "Misplaced": 0,
         "Too big": 0,
-        "Too small": 0,
+        "Too small": 1,
         "Weird shadow": 0,
         "Too bright": 0,
         "Noisy envamp": 0,
@@ -616,14 +616,14 @@
         "Other": 0
     },
     "9C4A2563-d4a99744c5_00_crop_B01LR5SM74_bundle0001.exr": {
-        "note": "",
+        "note": "Just a big too big to look off",
         "Misplaced": 0,
-        "Too big": 0,
+        "Too big": 1,
         "Too small": 0,
         "Weird shadow": 0,
         "Too bright": 0,
         "Noisy envamp": 0,
-        "Looks off": 0,
+        "Looks off": 1,
         "Other": 0
     },
     "9C4A2563-d4a99744c5_00_crop_B07B8VJQG1_bundle0001.exr": {
@@ -682,14 +682,14 @@
         "Other": 0
     },
     "9C4A3067-913cabd4f0_00_crop_B07B4MHRXY_bundle0001.exr": {
-        "note": "",
-        "Misplaced": 0,
+        "note": "very small couch and the support map is completely wrong",
+        "Misplaced": 1,
         "Too big": 0,
-        "Too small": 0,
+        "Too small": 1,
         "Weird shadow": 0,
         "Too bright": 0,
         "Noisy envamp": 0,
-        "Looks off": 0,
+        "Looks off": 1,
         "Other": 0
     },
     "9C4A3067-913cabd4f0_00_crop_B07YPLQ7KW_bundle0001.exr": {
@@ -748,8 +748,8 @@
         "Other": 0
     },
     "9C4A3067-913cabd4f0_06_crop_B07BWMSLVY_bundle0001.exr": {
-        "note": "",
-        "Misplaced": 0,
+        "note": "The couch is on 2 different surfaces",
+        "Misplaced": 1,
         "Too big": 0,
         "Too small": 0,
         "Weird shadow": 0,
@@ -759,8 +759,8 @@
         "Other": 0
     },
     "9C4A3067-913cabd4f0_06_crop_B07QJWXMXZ_bundle0001.exr": {
-        "note": "",
-        "Misplaced": 0,
+        "note": "the chair is on two different surfaces",
+        "Misplaced": 1,
         "Too big": 0,
         "Too small": 0,
         "Weird shadow": 0,
@@ -792,9 +792,9 @@
         "Other": 0
     },
     "9C4A3067-913cabd4f0_09_crop_B01LR5RO5U_bundle0001.exr": {
-        "note": "",
-        "Misplaced": 0,
-        "Too big": 0,
+        "note": "the support map is wrong and the weight is super massive",
+        "Misplaced": 1,
+        "Too big": 1,
         "Too small": 0,
         "Weird shadow": 0,
         "Too bright": 0,
@@ -803,15 +803,15 @@
         "Other": 0
     },
     "9C4A3067-913cabd4f0_09_crop_B072JG1RRT_bundle0001.exr": {
-        "note": "",
-        "Misplaced": 0,
+        "note": "the support map is wrong for the chair",
+        "Misplaced": 1,
         "Too big": 0,
         "Too small": 0,
         "Weird shadow": 0,
         "Too bright": 0,
         "Noisy envamp": 0,
         "Looks off": 0,
-        "Other": 0
+        "Other": 1
     },
     "9C4A3235-5e5a966c6a_08_crop_B071SLGYB3_bundle0001.exr": {
         "note": "",
@@ -836,10 +836,10 @@
         "Other": 0
     },
     "9C4A3235-5e5a966c6a_09_crop_B07HZ6ZCW7_bundle0001.exr": {
-        "note": "",
+        "note": "I don't know about this one...I guess a bit too small",
         "Misplaced": 0,
         "Too big": 0,
-        "Too small": 0,
+        "Too small": 1,
         "Weird shadow": 0,
         "Too bright": 0,
         "Noisy envamp": 0,
@@ -847,7 +847,7 @@
         "Other": 0
     },
     "9C4A3235-5e5a966c6a_09_crop_B07J2R9Y4W_bundle0001.exr": {
-        "note": "",
+        "note": "a bit too small, but i'm not sure, so no checked reason",
         "Misplaced": 0,
         "Too big": 0,
         "Too small": 0,
@@ -902,25 +902,25 @@
         "Other": 0
     },
     "9C4A3359-3edd9ddf7d_03_crop_B07HSKY87X_bundle0001.exr": {
-        "note": "",
-        "Misplaced": 0,
-        "Too big": 0,
+        "note": "the table is floating",
+        "Misplaced": 1,
+        "Too big": 1,
         "Too small": 0,
         "Weird shadow": 0,
         "Too bright": 0,
         "Noisy envamp": 0,
-        "Looks off": 0,
-        "Other": 0
+        "Looks off": 1,
+        "Other": 1
     },
     "9C4A3359-3edd9ddf7d_03_crop_B082VL45Z5_bundle0001.exr": {
-        "note": "",
-        "Misplaced": 0,
+        "note": "the couch is floating",
+        "Misplaced": 1,
         "Too big": 0,
         "Too small": 0,
         "Weird shadow": 0,
         "Too bright": 0,
         "Noisy envamp": 0,
-        "Looks off": 0,
+        "Looks off": 1,
         "Other": 0
     },
     "9C4A3359-3edd9ddf7d_04_crop_B07GNNPB3M_bundle0001.exr": {
@@ -946,31 +946,31 @@
         "Other": 0
     },
     "9C4A3359-3edd9ddf7d_05_crop_B07VKM698C_bundle0001.exr": {
-        "note": "",
-        "Misplaced": 0,
+        "note": "the chair is floating",
+        "Misplaced": 1,
         "Too big": 0,
         "Too small": 0,
         "Weird shadow": 0,
         "Too bright": 0,
         "Noisy envamp": 0,
-        "Looks off": 0,
-        "Other": 0
+        "Looks off": 1,
+        "Other": 1
     },
     "9C4A3359-3edd9ddf7d_05_crop_B085FHBF21_bundle0001.exr": {
-        "note": "",
-        "Misplaced": 0,
+        "note": "the chair is floating",
+        "Misplaced": 1,
         "Too big": 0,
         "Too small": 0,
         "Weird shadow": 0,
         "Too bright": 0,
         "Noisy envamp": 0,
-        "Looks off": 0,
+        "Looks off": 1,
         "Other": 0
     },
     "9C4A3359-3edd9ddf7d_07_crop_B07DBFM8T7_bundle0001.exr": {
-        "note": "",
+        "note": "a bit too big",
         "Misplaced": 0,
-        "Too big": 0,
+        "Too big": 1,
         "Too small": 0,
         "Weird shadow": 0,
         "Too bright": 0,
@@ -1100,12 +1100,12 @@
         "Other": 0
     },
     "9C4A3419-2e5c9b4d85_03_crop_B07H8V49GP_bundle0001.exr": {
-        "note": "",
+        "note": "super white, because super bright",
         "Misplaced": 0,
         "Too big": 0,
         "Too small": 0,
         "Weird shadow": 0,
-        "Too bright": 0,
+        "Too bright": 1,
         "Noisy envamp": 0,
         "Looks off": 0,
         "Other": 0
@@ -1122,7 +1122,7 @@
         "Other": 0
     },
     "9C4A3419-2e5c9b4d85_04_crop_B01DA8QJYO_bundle0001.exr": {
-        "note": "",
+        "note": "Not sure but at exposure 0, it is a bit too bright, but it looks alright when lowering it",
         "Misplaced": 0,
         "Too big": 0,
         "Too small": 0,
@@ -1133,12 +1133,12 @@
         "Other": 0
     },
     "9C4A3419-2e5c9b4d85_04_crop_B07WL4KFKB_bundle0001.exr": {
-        "note": "",
+        "note": "SUPER DUPER BRIGHT",
         "Misplaced": 0,
         "Too big": 0,
         "Too small": 0,
         "Weird shadow": 0,
-        "Too bright": 0,
+        "Too bright": 1,
         "Noisy envamp": 0,
         "Looks off": 0,
         "Other": 0
@@ -1210,14 +1210,14 @@
         "Other": 0
     },
     "9C4A4283-efc7baa2e2_06_crop_B07B4FWPP7_bundle0001.exr": {
-        "note": "",
+        "note": "couch too small, so it looks off",
         "Misplaced": 0,
         "Too big": 0,
-        "Too small": 0,
+        "Too small": 1,
         "Weird shadow": 0,
         "Too bright": 0,
         "Noisy envamp": 0,
-        "Looks off": 0,
+        "Looks off": 1,
         "Other": 0
     },
     "9C4A4283-efc7baa2e2_06_crop_B084W32T5B_bundle0001.exr": {
@@ -1232,14 +1232,14 @@
         "Other": 0
     },
     "9C4A4500-93ae593054_01_crop_B07H8SSBL7_bundle0001.exr": {
-        "note": "",
-        "Misplaced": 0,
+        "note": "table is floating a bit",
+        "Misplaced": 1,
         "Too big": 0,
         "Too small": 0,
         "Weird shadow": 0,
         "Too bright": 0,
         "Noisy envamp": 0,
-        "Looks off": 0,
+        "Looks off": 1,
         "Other": 0
     },
     "9C4A4500-93ae593054_01_crop_B088HFR6W1_bundle0001.exr": {
@@ -1309,9 +1309,9 @@
         "Other": 0
     },
     "9C4A4668-16193e7517_02_crop_B0853PKBRV_bundle0001.exr": {
-        "note": "",
+        "note": "those lights are massive 0-0",
         "Misplaced": 0,
-        "Too big": 0,
+        "Too big": 1,
         "Too small": 0,
         "Weird shadow": 0,
         "Too bright": 0,
@@ -1408,40 +1408,40 @@
         "Other": 0
     },
     "9C4A4811-64470bd442_04_crop_B07BWLJR3M_bundle0001.exr": {
-        "note": "",
-        "Misplaced": 0,
+        "note": "the couch is in the sink!!!!",
+        "Misplaced": 1,
         "Too big": 0,
         "Too small": 0,
         "Weird shadow": 0,
         "Too bright": 0,
         "Noisy envamp": 0,
-        "Looks off": 0,
+        "Looks off": 1,
         "Other": 0
     },
     "9C4A4811-64470bd442_04_crop_B07DBGWFGY_bundle0001.exr": {
-        "note": "",
-        "Misplaced": 0,
+        "note": "the chair is in the sink!!",
+        "Misplaced": 1,
         "Too big": 0,
         "Too small": 0,
         "Weird shadow": 0,
         "Too bright": 0,
         "Noisy envamp": 0,
-        "Looks off": 0,
+        "Looks off": 1,
         "Other": 0
     },
     "9C4A4811-64470bd442_08_crop_B07847Y5BG_bundle0001.exr": {
-        "note": "",
-        "Misplaced": 0,
+        "note": "shadow is floating",
+        "Misplaced": 1,
         "Too big": 0,
         "Too small": 0,
-        "Weird shadow": 0,
+        "Weird shadow": 1,
         "Too bright": 0,
         "Noisy envamp": 0,
         "Looks off": 0,
         "Other": 0
     },
     "9C4A4811-64470bd442_08_crop_B07BMTXHZS_bundle0001.exr": {
-        "note": "",
+        "note": "shadow is also floating",
         "Misplaced": 0,
         "Too big": 0,
         "Too small": 0,
@@ -1474,9 +1474,9 @@
         "Other": 0
     },
     "9C4A4861-19626f89e9_02_crop_B07DBH52YB_bundle0001.exr": {
-        "note": "",
+        "note": "sooooo big",
         "Misplaced": 0,
-        "Too big": 0,
+        "Too big": 1,
         "Too small": 0,
         "Weird shadow": 0,
         "Too bright": 0,
@@ -1485,9 +1485,9 @@
         "Other": 0
     },
     "9C4A4861-19626f89e9_02_crop_B07TZ9BLZL_bundle0001.exr": {
-        "note": "",
+        "note": "super massive bookcase",
         "Misplaced": 0,
-        "Too big": 0,
+        "Too big": 1,
         "Too small": 0,
         "Weird shadow": 0,
         "Too bright": 0,
@@ -1540,14 +1540,14 @@
         "Other": 0
     },
     "9C4A4861-19626f89e9_08_crop_B07374P5NP_bundle0001.exr": {
-        "note": "",
+        "note": "the lamps are floating and flying, it's weird",
         "Misplaced": 0,
         "Too big": 0,
         "Too small": 0,
         "Weird shadow": 0,
         "Too bright": 0,
         "Noisy envamp": 0,
-        "Looks off": 0,
+        "Looks off": 1,
         "Other": 0
     },
     "9C4A4861-19626f89e9_08_crop_B075YQXRBS_bundle0001.exr": {
@@ -1573,8 +1573,8 @@
         "Other": 0
     },
     "9C4A4861-19626f89e9_09_crop_B07DBJQC1K_bundle0001.exr": {
-        "note": "",
-        "Misplaced": 0,
+        "note": "The couch overlaps the chairs",
+        "Misplaced": 1,
         "Too big": 0,
         "Too small": 0,
         "Weird shadow": 0,
@@ -1639,11 +1639,11 @@
         "Other": 0
     },
     "9C4A4878-4dac321d8b_06_crop_B07Y3QXV1Q_bundle0001.exr": {
-        "note": "",
+        "note": "shadow floats",
         "Misplaced": 0,
         "Too big": 0,
         "Too small": 0,
-        "Weird shadow": 0,
+        "Weird shadow": 1,
         "Too bright": 0,
         "Noisy envamp": 0,
         "Looks off": 0,
@@ -1694,14 +1694,14 @@
         "Other": 0
     },
     "9C4A5021-3169a55eaf_02_crop_B07T9FMSSP_bundle0001.exr": {
-        "note": "",
-        "Misplaced": 0,
+        "note": "shadow and the object floats",
+        "Misplaced": 1,
         "Too big": 0,
         "Too small": 0,
         "Weird shadow": 0,
         "Too bright": 0,
         "Noisy envamp": 0,
-        "Looks off": 0,
+        "Looks off": 1,
         "Other": 0
     },
     "9C4A5021-3169a55eaf_02_crop_B0824F6HZ4_bundle0001.exr": {
@@ -1738,47 +1738,47 @@
         "Other": 0
     },
     "9C4A6269-ace1d48e17_07_crop_B07BW8QV4D_bundle0001.exr": {
-        "note": "",
-        "Misplaced": 0,
+        "note": "ahahahahah the couch literally floats on the water",
+        "Misplaced": 1,
         "Too big": 0,
         "Too small": 0,
         "Weird shadow": 0,
         "Too bright": 0,
         "Noisy envamp": 0,
-        "Looks off": 0,
+        "Looks off": 1,
         "Other": 0
     },
     "9C4A6269-ace1d48e17_07_crop_B07DTF7N9Q_bundle0001.exr": {
-        "note": "",
-        "Misplaced": 0,
-        "Too big": 0,
+        "note": "what is that? and why did it invaded the peps pool?",
+        "Misplaced": 1,
+        "Too big": 1,
         "Too small": 0,
         "Weird shadow": 0,
         "Too bright": 0,
         "Noisy envamp": 0,
-        "Looks off": 0,
+        "Looks off": 1,
         "Other": 0
     },
     "9C4A6269-ace1d48e17_08_crop_B07B4M68H9_bundle0001.exr": {
-        "note": "",
-        "Misplaced": 0,
+        "note": "the couch is on the water",
+        "Misplaced": 1,
         "Too big": 0,
         "Too small": 0,
         "Weird shadow": 0,
         "Too bright": 0,
         "Noisy envamp": 0,
-        "Looks off": 0,
+        "Looks off": 1,
         "Other": 0
     },
     "9C4A6269-ace1d48e17_08_crop_B08C2NYN5Y_bundle0001.exr": {
-        "note": "",
-        "Misplaced": 0,
-        "Too big": 0,
+        "note": "the table is floating on the water",
+        "Misplaced": 1,
+        "Too big": 1,
         "Too small": 0,
         "Weird shadow": 0,
         "Too bright": 0,
         "Noisy envamp": 0,
-        "Looks off": 0,
+        "Looks off": 1,
         "Other": 0
     },
     "9C4A6436-19040d41c8_05_crop_B072C8QG7V_bundle0001.exr": {
@@ -1936,20 +1936,20 @@
         "Other": 0
     },
     "9C4A6813-8339c9db66_01_crop_B072JT7WF6_bundle0001.exr": {
-        "note": "",
-        "Misplaced": 0,
+        "note": "the support map isn't good enough because the bed isn't actually flat",
+        "Misplaced": 1,
         "Too big": 0,
         "Too small": 0,
         "Weird shadow": 0,
         "Too bright": 0,
         "Noisy envamp": 0,
-        "Looks off": 0,
+        "Looks off": 1,
         "Other": 0
     },
     "9C4A6813-8339c9db66_01_crop_B07VDD6B6S_bundle0001.exr": {
-        "note": "",
-        "Misplaced": 0,
-        "Too big": 0,
+        "note": "support map is bad",
+        "Misplaced": 1,
+        "Too big": 1,
         "Too small": 0,
         "Weird shadow": 0,
         "Too bright": 0,
@@ -1958,48 +1958,48 @@
         "Other": 0
     },
     "9C4A6815-4e94ea1d41_00_crop_B07B4YXY12_bundle0001.exr": {
-        "note": "",
+        "note": "the scene is empty????",
         "Misplaced": 0,
         "Too big": 0,
         "Too small": 0,
         "Weird shadow": 0,
         "Too bright": 0,
         "Noisy envamp": 0,
-        "Looks off": 0,
-        "Other": 0
+        "Looks off": 1,
+        "Other": 1
     },
     "9C4A6815-4e94ea1d41_00_crop_B07HPRKC38_bundle0001.exr": {
-        "note": "",
+        "note": "The scene is empty again??",
         "Misplaced": 0,
         "Too big": 0,
         "Too small": 0,
         "Weird shadow": 0,
         "Too bright": 0,
         "Noisy envamp": 0,
-        "Looks off": 0,
-        "Other": 0
+        "Looks off": 1,
+        "Other": 1
     },
     "9C4A6815-4e94ea1d41_01_crop_B07GFT639N_bundle0001.exr": {
-        "note": "",
+        "note": "the scene is empty again?",
         "Misplaced": 0,
         "Too big": 0,
         "Too small": 0,
         "Weird shadow": 0,
         "Too bright": 0,
         "Noisy envamp": 0,
-        "Looks off": 0,
-        "Other": 0
+        "Looks off": 1,
+        "Other": 1
     },
     "9C4A6815-4e94ea1d41_01_crop_B07L1DPX3Q_bundle0001.exr": {
-        "note": "",
+        "note": "the scene is empty?",
         "Misplaced": 0,
-        "Too big": 0,
+        "Too big": 1,
         "Too small": 0,
         "Weird shadow": 0,
         "Too bright": 0,
         "Noisy envamp": 0,
-        "Looks off": 0,
-        "Other": 0
+        "Looks off": 1,
+        "Other": 1
     },
     "9C4A6817-e170a870c0_02_crop_B07374P6MR_bundle0001.exr": {
         "note": "",
@@ -2035,14 +2035,14 @@
         "Other": 0
     },
     "9C4A6817-e170a870c0_08_crop_B07DBHKFZP_bundle0001.exr": {
-        "note": "",
+        "note": "the lamp is massive and is reversed on the floor",
         "Misplaced": 0,
-        "Too big": 0,
+        "Too big": 1,
         "Too small": 0,
         "Weird shadow": 0,
         "Too bright": 0,
         "Noisy envamp": 0,
-        "Looks off": 0,
+        "Looks off": 1,
         "Other": 0
     },
     "9C4A6864-533a74ab58_09_crop_B07B4D8B2S_bundle0001.exr": {
@@ -2057,14 +2057,14 @@
         "Other": 0
     },
     "9C4A6864-533a74ab58_09_crop_B07QF9Y9D1_bundle0001.exr": {
-        "note": "",
-        "Misplaced": 0,
-        "Too big": 0,
+        "note": "The shelve is clipping the door",
+        "Misplaced": 1,
+        "Too big": 1,
         "Too small": 0,
         "Weird shadow": 0,
         "Too bright": 0,
         "Noisy envamp": 0,
-        "Looks off": 0,
+        "Looks off": 1,
         "Other": 0
     },
     "9C4A6901-d0b46d02c4_01_crop_B075X54415_bundle0001.exr": {
@@ -2134,8 +2134,8 @@
         "Other": 0
     },
     "9C4A7074-f46f94a5b1_02_crop_B077HZ23BG_bundle0001.exr": {
-        "note": "",
-        "Misplaced": 0,
+        "note": "This painting is floating",
+        "Misplaced": 1,
         "Too big": 0,
         "Too small": 0,
         "Weird shadow": 0,
@@ -2145,8 +2145,8 @@
         "Other": 0
     },
     "9C4A7074-f46f94a5b1_02_crop_B0853MY3J3_bundle0001.exr": {
-        "note": "",
-        "Misplaced": 0,
+        "note": "The chair is floating and hovering on the desks",
+        "Misplaced": 1,
         "Too big": 0,
         "Too small": 0,
         "Weird shadow": 0,
